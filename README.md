@@ -23,7 +23,32 @@ Install Rstudio:
 
 ## Use
 - Open ```gomoku_master.R``` and compile the code
+
 - Make sure to select one of the three modes for both black and white. (```manual```, ```random```, ```smart```)
+
+- A screenshot of the game chessboard:
+
+  
+
+- In the console, the log will be presented as:
+
+  ```text
+  It's Black's turn:  
+  Black plays 10, 10
+  It's White's turn:  
+  White plays 11, 11
+  ......
+  ......
+  It's White's turn:  
+  White plays 10, 6
+  It's Black's turn:  
+  Black plays 5, 11
+  
+  Game over! 
+  Black wins! 
+  ```
+
+  
 
 ## Development
 The program uses pattern recognition in matrices. Please contact author if you are interested in further development of the game.

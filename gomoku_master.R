@@ -146,7 +146,7 @@ white_manual = function(){
 play_game = function(black_player = "manual",
                      white_player = "manual"){
   game_over = FALSE
-  n_board <<- 9
+  n_board <<- 19
   init_chessboard(n = n_board)
   n = 1
   while(!game_over){
@@ -190,4 +190,4 @@ play_game = function(black_player = "manual",
   }
 }
 
-play_game(black_player = "smart", white_player = "smart")
+play_game(black_player = "manual", white_player = "manual")
