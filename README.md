@@ -28,7 +28,7 @@ Install Rstudio:
 
 - A screenshot of the game chessboard:
 
-  
+![Screenshot](https://github.com/Broccolito/wuzi/blob/master/screenshot.png)  
 
 - In the console, the log will be presented as:
 
