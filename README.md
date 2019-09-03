@@ -18,7 +18,7 @@ Install Rstudio:
 
 
 ## Built With
-[R](https://www.r-project.org/) - The data Analysis tool used 
+[R](https://www.r-project.org/) - The data Analysis tool used <br>
 [Fun](https://cran.rstudio.com/web/packages/fun/fun.pdf) - A compilation of games made with R by Yihui Xie
 
 ## Use
