@@ -1,4 +1,4 @@
-# Wuzi
+# Gomoku Master
 A simple gomoku game realized in R. (五子棋)
 
 ## Getting Started
@@ -22,7 +22,7 @@ Install Rstudio:
 [Fun](https://cran.rstudio.com/web/packages/fun/fun.pdf) - A compilation of games made with R by Yihui Xie
 
 ## Use
-- Open ```gomoku.R``` and compile the code
+- Open ```gomoku_master.R``` and compile the code
 - Make sure to select one of the three modes for both black and white. (```manual```, ```random```, ```smart```)
 
 ## Development
